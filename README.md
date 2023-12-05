@@ -15,7 +15,7 @@ Check out the F.A.Q. within the Wiki of the github repository before mailing to 
 
 ## Implementation within games
 
-1.  Download and import the .unitypackage into your game (download [here](https://github.com/pogamesdk/POGAME-Unity/raw/master/POGAME.unitypackage)).
+1.  Download and import the .unitypackage into your game (download [here](https://github.com/pogamesdk/POGAME-Unity/raw/master/POSDK.unitypackage)).
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/1.png)
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/2.png)
 
