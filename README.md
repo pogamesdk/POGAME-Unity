@@ -122,6 +122,10 @@ public class ExampleClass: MonoBehaviour {
 }
 ```
 
+## Decompression fallback
+
+If you enable a `Compression Method` for your build (Gzip or Brotli compression method), you have to enable `Decompression Fallback`. For more information, refer to [Compressed builds and server configuration](https://docs.unity3d.com/Manual/webgl-deploying.html).
+
 ## Best Practice for Rewarded Ads
 
 You can use multiple ad slots for rewarded ads and give your players multiple way of gathering rewards. Samples below is very nice way of implementing this feature.
