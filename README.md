@@ -19,7 +19,7 @@ Check out the F.A.Q. within the Wiki of the github repository before mailing to 
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/1.png)
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/2.png)
 
-1.  Drag the prefab "POGAME" into your scene.
+1.  Drag the prefab "POSDK" into your scene.
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/3.png)
 
 1.  Copy your GAME_KEY in your POGAME developer's control panel (in the 'Upload' tab), at <a href="https://developer.pogame.com" target="_blank">developer.pogame.com</a>
