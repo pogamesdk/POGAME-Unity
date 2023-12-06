@@ -1,7 +1,7 @@
 ![](https://static.pogame.com/wiki/posdk-unity-plugin/unity.png)
 
 [![GitHub version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/pogamesdk/POGAME-Unity/)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/pogamesdk/POGAME-Unity/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/pogamesdk/POGAME-Unity/blob/main/LICENSE)
 
 # POGAME.com Unity SDK plugin
 
@@ -15,7 +15,7 @@ Check out the F.A.Q. within the Wiki of the github repository before mailing to 
 
 ## Implementation within games
 
-1.  Download and import the .unitypackage into your game (download [here](https://github.com/pogamesdk/POGAME-Unity/raw/master/POSDK.unitypackage)).
+1.  Download and import the .unitypackage into your game (download [here](https://github.com/pogamesdk/POGAME-Unity/raw/main/POSDK.unitypackage)).
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/1.png)
     ![](https://static.pogame.com/wiki/posdk-unity-plugin/2.png)
 
