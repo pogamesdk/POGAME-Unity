@@ -7,7 +7,7 @@
 
 This is the documentation of the "POGAME.com Unity SDK plugin" project for adding the SDK within your <strong>Unity WebGL</strong> game.
 
-POGAME.com is the biggest broker of high quality, cross-platform games. We connect the best game developers to the biggest publishers.
+POGAME.com is the biggest collections of high quality, cross-platform games. We provide great games for your website within minutes!
 
 Running into any issues?
 
